@@ -1,0 +1,61 @@
+customer_id,customer_name,segment,region,country,email,status
+1,Customer_001,Enterprise,NCR,Philippines,cust1@example.com,Active
+2,Customer_002,Enterprise,NCR,Philippines,cust2@example.com,Churned
+3,Customer_003,Distributor,Metro Cebu,Philippines,cust3@example.com,Active
+4,Customer_004,Enterprise,Metro Cebu,Philippines,cust4@example.com,Active
+5,Customer_005,Wholesale,Region XI,Philippines,cust5@example.com,Active
+6,Customer_006,Retail,NCR,Philippines,cust6@example.com,Active
+7,Customer_007,Retail,NCR,Philippines,cust7@example.com,Churned
+8,Customer_008,SME,Region IV-A,Philippines,cust8@example.com,Active
+9,Customer_009,SME,Region III,Philippines,cust9@example.com,Active
+10,Customer_010,Retail,Region III,Philippines,cust10@example.com,Active
+11,Customer_011,Enterprise,Region III,Philippines,cust11@example.com,Active
+12,Customer_012,SME,NCR,Philippines,cust12@example.com,Active
+13,Customer_013,Enterprise,Visayas,Philippines,cust13@example.com,Active
+14,Customer_014,Wholesale,Visayas,Philippines,cust14@example.com,Active
+15,Customer_015,Distributor,Mindanao,Philippines,cust15@example.com,Active
+16,Customer_016,Distributor,Metro Cebu,Philippines,cust16@example.com,Active
+17,Customer_017,Retail,NCR,Philippines,cust17@example.com,Churned
+18,Customer_018,SME,Region III,Philippines,cust18@example.com,Active
+19,Customer_019,SME,Region VII,Philippines,cust19@example.com,Active
+20,Customer_020,Wholesale,Visayas,Philippines,cust20@example.com,Active
+21,Customer_021,Wholesale,Visayas,Philippines,cust21@example.com,Active
+22,Customer_022,Wholesale,Metro Cebu,Philippines,cust22@example.com,Active
+23,Customer_023,SME,NCR,Philippines,cust23@example.com,Active
+24,Customer_024,Retail,Region IV-A,Philippines,cust24@example.com,Active
+25,Customer_025,Retail,Region III,Philippines,cust25@example.com,Active
+26,Customer_026,Distributor,Region XI,Philippines,cust26@example.com,Active
+27,Customer_027,Distributor,Region VII,Philippines,cust27@example.com,Active
+28,Customer_028,SME,Metro Cebu,Philippines,cust28@example.com,Active
+29,Customer_029,Retail,Region III,Philippines,cust29@example.com,Churned
+30,Customer_030,Distributor,NCR,Philippines,cust30@example.com,Active
+31,Customer_031,Distributor,Region IV-A,Philippines,cust31@example.com,Active
+32,Customer_032,Wholesale,Metro Cebu,Philippines,cust32@example.com,Churned
+33,Customer_033,SME,NCR,Philippines,cust33@example.com,Active
+34,Customer_034,Retail,Region IV-A,Philippines,cust34@example.com,Active
+35,Customer_035,Distributor,Region IV-A,Philippines,cust35@example.com,Churned
+36,Customer_036,Wholesale,NCR,Philippines,cust36@example.com,Active
+37,Customer_037,Distributor,NCR,Philippines,cust37@example.com,Active
+38,Customer_038,Wholesale,Region VII,Philippines,cust38@example.com,Active
+39,Customer_039,Distributor,Mindanao,Philippines,cust39@example.com,Active
+40,Customer_040,Wholesale,Region IV-A,Philippines,cust40@example.com,Active
+41,Customer_041,Enterprise,NCR,Philippines,cust41@example.com,Active
+42,Customer_042,Distributor,Mindanao,Philippines,cust42@example.com,Active
+43,Customer_043,Distributor,Region IV-A,Philippines,cust43@example.com,Active
+44,Customer_044,Enterprise,NCR,Philippines,cust44@example.com,Churned
+45,Customer_045,Wholesale,Region VII,Philippines,cust45@example.com,Churned
+46,Customer_046,Distributor,Region XI,Philippines,cust46@example.com,Active
+47,Customer_047,Wholesale,NCR,Philippines,cust47@example.com,Active
+48,Customer_048,Enterprise,Visayas,Philippines,cust48@example.com,Active
+49,Customer_049,Retail,Region XI,Philippines,cust49@example.com,Active
+50,Customer_050,SME,Mindanao,Philippines,cust50@example.com,Active
+51,Customer_051,Retail,Region III,Philippines,cust51@example.com,Active
+52,Customer_052,Wholesale,Region XI,Philippines,cust52@example.com,Active
+53,Customer_053,Retail,Mindanao,Philippines,cust53@example.com,Active
+54,Customer_054,Distributor,Mindanao,Philippines,cust54@example.com,Active
+55,Customer_055,Enterprise,Region VII,Philippines,cust55@example.com,Active
+56,Customer_056,Retail,Mindanao,Philippines,cust56@example.com,Active
+57,Customer_057,SME,Region VII,Philippines,cust57@example.com,Active
+58,Customer_058,Enterprise,Region III,Philippines,cust58@example.com,Active
+59,Customer_059,SME,Visayas,Philippines,cust59@example.com,Active
+60,Customer_060,Distributor,Region XI,Philippines,cust60@example.com,Churned

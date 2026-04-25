@@ -1,0 +1,9 @@
+supplier_id,supplier_name,country,city,status
+1,Apex Global Supply,Philippines,Manila,Active
+2,BrightPath Logistics,Singapore,Singapore,Active
+3,NovaTrade Co,China,Shenzhen,Active
+4,EastWave Distributors,South Korea,Seoul,Active
+5,SunRise Materials,Vietnam,Ho Chi Minh,Active
+6,CoreLink Industries,Japan,Osaka,Inactive
+7,PrimeMover Intl,Malaysia,Kuala Lumpur,Active
+8,BlueStar Freight,Thailand,Bangkok,Active

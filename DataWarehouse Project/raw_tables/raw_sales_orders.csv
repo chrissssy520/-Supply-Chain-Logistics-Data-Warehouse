@@ -1,0 +1,501 @@
+order_id,order_date,customer_id,product_id,warehouse_id,carrier_id,quantity,unit_price,discount_pct,status,payment_method,sales_channel,promised_delivery_date,actual_delivery_date
+ORD-00001,2024-03-06,21,26,3,5,33,441.48,0.0,Cancelled,Credit Card,Trade Fair,2024-03-21,
+ORD-00002,2023-10-21,37,20,4,5,1,251.57,0.0,Shipped,GCash,Trade Fair,2023-10-30,
+ORD-00003,2023-08-07,42,21,4,4,114,1235.72,0.15,Shipped,Credit Card,Online Portal,2023-08-26,
+ORD-00004,2023-08-29,19,33,5,3,24,504.85,0.2,Delivered,Credit Card,Online Portal,2023-09-10,2023-09-11
+ORD-00005,2024-04-11,3,16,4,5,197,935.86,0.0,Cancelled,GCash,Direct Sales,2024-04-27,
+ORD-00006,2023-06-01,46,45,4,4,103,298.44,0.0,Returned,Bank Transfer,Telesales,2023-06-04,
+ORD-00007,2023-09-13,15,12,5,4,13,253.04,0.1,Shipped,Credit Card,Telesales,2023-09-19,
+ORD-00008,2024-03-29,43,34,5,5,82,1287.16,0.2,Shipped,GCash,Telesales,2024-04-17,
+ORD-00009,2023-09-11,58,11,4,4,67,124.2,0.2,Returned,GCash,Telesales,2023-09-22,
+ORD-00010,2023-10-20,41,16,3,4,20,935.86,0.15,Delivered,Cash on Delivery,Trade Fair,2023-10-30,2023-11-02
+ORD-00011,2023-06-06,6,9,2,2,99,250.07,0.15,Delivered,Check,Distributor,2023-06-15,2023-06-19
+ORD-00012,2024-03-06,35,30,4,1,53,325.51,0.2,Returned,GCash,Online Portal,2024-03-21,
+ORD-00013,2023-11-02,55,37,4,4,2,554.0,0.0,Returned,Check,Trade Fair,2023-11-17,
+ORD-00014,2023-08-13,48,48,5,5,57,962.61,0.05,Shipped,Check,Online Portal,2023-08-24,
+ORD-00015,2024-04-23,25,22,4,6,43,867.22,0.2,Processing,GCash,Online Portal,2024-04-30,
+ORD-00016,2023-03-27,59,26,5,5,170,441.48,0.0,Delivered,Credit Card,Online Portal,2023-04-12,2023-04-17
+ORD-00017,2023-12-12,17,25,3,2,117,1572.09,0.0,Delivered,Cash on Delivery,Online Portal,2023-12-27,2023-12-31
+ORD-00018,2024-10-27,31,2,5,1,90,1228.05,0.0,Returned,Bank Transfer,Online Portal,2024-11-01,
+ORD-00019,2023-05-10,16,13,1,5,40,496.03,0.0,Cancelled,Bank Transfer,Trade Fair,2023-05-28,
+ORD-00020,2024-09-13,14,30,3,3,43,325.51,0.1,Returned,Credit Card,Distributor,2024-09-19,
+ORD-00021,2024-01-20,7,38,1,3,148,875.14,0.15,Cancelled,Credit Card,Online Portal,2024-02-04,
+ORD-00022,2023-11-05,38,45,2,1,179,298.44,0.2,Returned,GCash,Online Portal,2023-11-11,
+ORD-00023,2024-06-02,23,35,4,6,95,1195.53,0.0,Delivered,Check,Online Portal,2024-06-15,2024-06-19
+ORD-00024,2023-06-30,28,24,4,6,40,865.77,0.05,Cancelled,Cash on Delivery,Trade Fair,2023-07-19,
+ORD-00025,2024-08-29,52,35,4,4,112,1195.53,0.2,Delivered,Bank Transfer,Distributor,2024-09-09,2024-09-10
+ORD-00026,2024-11-15,57,29,2,4,146,1253.86,0.1,Delivered,Check,Distributor,2024-11-30,2024-11-28
+ORD-00027,2023-10-14,12,32,2,3,67,119.53,0.0,Processing,Bank Transfer,Trade Fair,2023-10-25,
+ORD-00028,2024-07-22,13,6,2,6,105,1360.72,0.05,Cancelled,Check,Telesales,2024-08-01,
+ORD-00029,2024-12-09,29,2,1,3,57,1228.05,0.05,Delivered,Cash on Delivery,Telesales,2024-12-19,2024-12-26
+ORD-00030,2023-12-05,36,34,3,4,191,1287.16,0.1,Cancelled,Check,Distributor,2023-12-19,
+ORD-00031,2023-11-20,20,17,2,1,185,1478.98,0.0,Cancelled,GCash,Direct Sales,2023-11-26,
+ORD-00032,2024-06-21,13,14,4,3,186,1531.1,0.1,Delivered,Cash on Delivery,Direct Sales,2024-07-03,2024-07-04
+ORD-00033,2023-05-10,24,12,3,1,182,253.04,0.1,Delivered,GCash,Distributor,2023-05-21,2023-05-19
+ORD-00034,2023-10-19,45,9,4,1,4,250.07,0.1,Shipped,Check,Distributor,2023-11-06,
+ORD-00035,2023-03-08,12,4,3,4,30,38.07,0.2,Shipped,Bank Transfer,Trade Fair,2023-03-23,
+ORD-00036,2024-07-30,41,44,1,2,39,143.46,0.2,Delivered,Bank Transfer,Trade Fair,2024-08-11,2024-08-12
+ORD-00037,2024-06-19,49,27,5,5,159,892.32,0.0,Shipped,Check,Distributor,2024-07-04,
+ORD-00038,2023-03-03,56,38,4,3,146,875.14,0.1,Returned,Credit Card,Direct Sales,2023-03-09,
+ORD-00039,2024-07-19,17,43,1,2,62,770.84,0.0,Delivered,Check,Telesales,2024-07-24,2024-07-22
+ORD-00040,2023-10-23,45,39,4,3,9,444.53,0.0,Cancelled,Check,Online Portal,2023-11-04,
+ORD-00041,2023-07-22,44,15,3,6,151,825.79,0.15,Delivered,Credit Card,Direct Sales,2023-08-07,2023-08-13
+ORD-00042,2023-11-11,59,18,2,1,16,1416.07,0.0,Delivered,Bank Transfer,Telesales,2023-12-02,2023-12-07
+ORD-00043,2024-05-20,45,20,4,3,129,251.57,0.1,Delivered,Bank Transfer,Telesales,2024-06-06,2024-06-13
+ORD-00044,2023-08-23,48,21,5,3,7,1235.72,0.0,Processing,Bank Transfer,Distributor,2023-09-13,
+ORD-00045,2024-03-28,37,3,2,4,133,421.7,0.15,Delivered,Check,Telesales,2024-04-08,2024-04-15
+ORD-00046,2024-11-17,6,31,3,4,86,321.89,0.0,Returned,Credit Card,Distributor,2024-11-23,
+ORD-00047,2024-07-17,27,45,4,3,170,298.44,0.05,Shipped,Bank Transfer,Distributor,2024-07-21,
+ORD-00048,2023-01-02,17,21,1,4,132,1235.72,0.2,Shipped,Check,Online Portal,2023-01-22,
+ORD-00049,2024-10-02,13,34,3,5,194,1287.16,0.05,Returned,Bank Transfer,Direct Sales,2024-10-19,
+ORD-00050,2024-05-11,18,36,2,3,113,630.43,0.15,Delivered,Credit Card,Direct Sales,2024-05-17,2024-05-24
+ORD-00051,2023-08-19,20,36,1,5,105,630.43,0.0,Shipped,Bank Transfer,Direct Sales,2023-08-25,
+ORD-00052,2024-03-01,32,46,3,5,181,871.15,0.0,Shipped,Credit Card,Telesales,2024-03-19,
+ORD-00053,2023-05-20,36,10,4,2,154,1186.76,0.1,Delivered,Cash on Delivery,Trade Fair,2023-05-25,2023-05-29
+ORD-00054,2024-08-24,18,1,3,6,77,632.7,0.2,Cancelled,Check,Direct Sales,2024-09-14,
+ORD-00055,2024-07-10,29,35,4,3,86,1195.53,0.1,Shipped,Cash on Delivery,Direct Sales,2024-07-25,
+ORD-00056,2024-02-25,45,16,5,4,60,935.86,0.2,Delivered,Check,Telesales,2024-02-29,2024-03-05
+ORD-00057,2024-05-29,43,42,2,4,10,434.63,0.0,Delivered,Check,Online Portal,2024-06-19,2024-06-18
+ORD-00058,2024-11-01,34,30,1,6,37,325.51,0.05,Delivered,Cash on Delivery,Distributor,2024-11-08,2024-11-13
+ORD-00059,2023-12-03,40,45,4,6,21,298.44,0.2,Shipped,Cash on Delivery,Telesales,2023-12-23,
+ORD-00060,2024-10-08,56,35,1,5,18,1195.53,0.0,Delivered,Check,Online Portal,2024-10-20,2024-10-19
+ORD-00061,2023-11-03,49,41,1,4,43,1454.3,0.15,Delivered,Bank Transfer,Distributor,2023-11-06,2023-11-09
+ORD-00062,2024-02-26,23,24,4,2,63,865.77,0.1,Cancelled,Credit Card,Direct Sales,2024-03-18,
+ORD-00063,2023-09-04,12,6,5,4,159,1360.72,0.15,Processing,Credit Card,Direct Sales,2023-09-22,
+ORD-00064,2023-01-10,30,41,3,4,66,1454.3,0.15,Delivered,Credit Card,Online Portal,2023-01-27,2023-02-02
+ORD-00065,2024-12-07,29,23,5,3,164,275.57,0.05,Shipped,Cash on Delivery,Direct Sales,2024-12-18,
+ORD-00066,2024-01-03,25,31,1,2,98,321.89,0.1,Delivered,Bank Transfer,Telesales,2024-01-24,2024-01-26
+ORD-00067,2023-02-20,18,1,5,6,200,632.7,0.15,Returned,Cash on Delivery,Direct Sales,2023-03-10,
+ORD-00068,2023-09-14,39,23,2,6,49,275.57,0.1,Cancelled,Bank Transfer,Online Portal,2023-09-21,
+ORD-00069,2023-05-15,20,29,1,5,94,1253.86,0.15,Delivered,Check,Direct Sales,2023-05-20,2023-05-23
+ORD-00070,2023-10-07,13,9,5,3,136,250.07,0.1,Delivered,Cash on Delivery,Distributor,2023-10-15,2023-10-20
+ORD-00071,2023-08-20,52,8,4,1,37,1347.23,0.2,Returned,GCash,Distributor,2023-09-04,
+ORD-00072,2024-04-10,6,26,1,3,138,441.48,0.0,Cancelled,Cash on Delivery,Trade Fair,2024-04-24,
+ORD-00073,2024-04-27,25,41,3,1,173,1454.3,0.0,Processing,GCash,Distributor,2024-04-30,
+ORD-00074,2024-04-20,59,40,2,6,17,401.95,0.15,Cancelled,Check,Online Portal,2024-05-02,
+ORD-00075,2023-04-10,9,3,1,3,127,421.7,0.0,Processing,Credit Card,Telesales,2023-04-20,
+ORD-00076,2023-06-08,30,24,5,4,151,865.77,0.15,Cancelled,Bank Transfer,Telesales,2023-06-24,
+ORD-00077,2023-08-11,40,27,3,1,177,892.32,0.0,Shipped,Credit Card,Distributor,2023-08-28,
+ORD-00078,2023-03-04,7,44,3,5,166,143.46,0.0,Delivered,Bank Transfer,Telesales,2023-03-19,2023-03-20
+ORD-00079,2023-01-22,6,43,2,6,164,770.84,0.1,Returned,Cash on Delivery,Direct Sales,2023-01-26,
+ORD-00080,2023-08-01,9,37,2,1,196,554.0,0.1,Delivered,Cash on Delivery,Direct Sales,2023-08-22,2023-08-23
+ORD-00081,2024-07-07,51,39,1,3,38,444.53,0.0,Returned,Credit Card,Online Portal,2024-07-18,
+ORD-00082,2023-09-01,43,2,2,1,92,1228.05,0.2,Delivered,Credit Card,Distributor,2023-09-22,2023-09-20
+ORD-00083,2023-03-07,4,9,4,5,30,250.07,0.15,Shipped,Cash on Delivery,Trade Fair,2023-03-25,
+ORD-00084,2023-02-14,38,7,4,5,57,1254.35,0.1,Delivered,Bank Transfer,Online Portal,2023-03-05,2023-03-10
+ORD-00085,2024-12-30,31,26,4,6,28,441.48,0.05,Delivered,Cash on Delivery,Trade Fair,2025-01-16,2025-01-15
+ORD-00086,2024-08-22,10,5,2,3,160,354.38,0.15,Cancelled,Cash on Delivery,Telesales,2024-09-11,
+ORD-00087,2024-03-16,39,34,3,4,130,1287.16,0.1,Returned,Bank Transfer,Trade Fair,2024-03-22,
+ORD-00088,2023-12-14,47,14,4,4,59,1531.1,0.05,Shipped,Check,Online Portal,2023-12-31,
+ORD-00089,2023-06-06,21,28,3,6,66,1136.01,0.0,Delivered,Bank Transfer,Online Portal,2023-06-24,2023-06-23
+ORD-00090,2024-08-23,28,7,3,2,143,1254.35,0.0,Processing,Cash on Delivery,Online Portal,2024-09-12,
+ORD-00091,2024-09-06,27,23,4,6,14,275.57,0.0,Delivered,GCash,Trade Fair,2024-09-18,2024-09-17
+ORD-00092,2024-07-23,14,10,4,2,28,1186.76,0.0,Delivered,GCash,Direct Sales,2024-08-06,2024-08-08
+ORD-00093,2024-10-20,52,28,5,5,158,1136.01,0.15,Delivered,Cash on Delivery,Online Portal,2024-11-09,2024-11-16
+ORD-00094,2023-07-05,12,18,3,3,90,1416.07,0.0,Processing,Check,Online Portal,2023-07-12,
+ORD-00095,2023-08-09,10,48,1,1,192,962.61,0.1,Shipped,Check,Distributor,2023-08-24,
+ORD-00096,2024-08-04,11,24,3,6,84,865.77,0.2,Delivered,Credit Card,Trade Fair,2024-08-09,2024-08-09
+ORD-00097,2024-03-10,4,44,1,3,114,143.46,0.15,Processing,Check,Telesales,2024-03-28,
+ORD-00098,2023-04-24,18,14,5,1,89,1531.1,0.05,Cancelled,GCash,Telesales,2023-05-06,
+ORD-00099,2024-09-05,34,43,3,1,57,770.84,0.05,Delivered,Cash on Delivery,Direct Sales,2024-09-09,2024-09-10
+ORD-00100,2023-01-08,50,9,3,3,84,250.07,0.0,Cancelled,Check,Direct Sales,2023-01-26,
+ORD-00101,2024-07-26,9,25,5,6,59,1572.09,0.1,Delivered,Bank Transfer,Telesales,2024-08-09,2024-08-13
+ORD-00102,2024-08-10,2,30,1,3,148,325.51,0.05,Cancelled,Check,Distributor,2024-08-25,
+ORD-00103,2024-09-24,8,26,1,3,44,441.48,0.2,Returned,Cash on Delivery,Online Portal,2024-10-11,
+ORD-00104,2024-06-20,28,7,2,4,151,1254.35,0.05,Shipped,Cash on Delivery,Distributor,2024-06-25,
+ORD-00105,2023-04-27,15,22,2,1,131,867.22,0.15,Processing,Credit Card,Distributor,2023-05-16,
+ORD-00106,2023-09-20,23,47,2,2,27,113.01,0.0,Delivered,Credit Card,Online Portal,2023-09-29,2023-10-06
+ORD-00107,2024-08-16,12,41,4,4,194,1454.3,0.1,Cancelled,GCash,Trade Fair,2024-09-02,
+ORD-00108,2024-04-25,21,41,3,2,113,1454.3,0.0,Cancelled,Cash on Delivery,Distributor,2024-05-12,
+ORD-00109,2024-04-17,38,4,3,5,19,38.07,0.0,Delivered,Cash on Delivery,Distributor,2024-05-04,2024-05-02
+ORD-00110,2024-01-29,5,42,1,5,153,434.63,0.1,Processing,GCash,Online Portal,2024-02-15,
+ORD-00111,2024-05-28,29,37,2,3,155,554.0,0.05,Delivered,Bank Transfer,Distributor,2024-06-04,2024-06-09
+ORD-00112,2023-09-11,46,6,5,6,45,1360.72,0.0,Shipped,GCash,Trade Fair,2023-09-28,
+ORD-00113,2024-02-23,40,11,3,3,73,124.2,0.05,Cancelled,GCash,Online Portal,2024-03-07,
+ORD-00114,2024-07-25,51,41,3,1,85,1454.3,0.0,Delivered,GCash,Direct Sales,2024-08-09,2024-08-11
+ORD-00115,2023-11-14,22,6,5,6,37,1360.72,0.0,Delivered,Bank Transfer,Distributor,2023-11-29,2023-12-06
+ORD-00116,2024-12-02,36,25,3,2,172,1572.09,0.15,Delivered,GCash,Distributor,2024-12-21,2024-12-25
+ORD-00117,2024-05-12,2,24,3,2,55,865.77,0.0,Delivered,Credit Card,Online Portal,2024-05-21,2024-05-21
+ORD-00118,2023-02-08,19,7,5,5,190,1254.35,0.1,Returned,GCash,Direct Sales,2023-02-21,
+ORD-00119,2024-12-10,39,25,2,2,47,1572.09,0.2,Cancelled,Check,Online Portal,2024-12-18,
+ORD-00120,2024-04-04,27,24,2,4,157,865.77,0.0,Processing,Credit Card,Distributor,2024-04-14,
+ORD-00121,2024-03-27,52,31,2,3,174,321.89,0.1,Returned,Cash on Delivery,Telesales,2024-04-13,
+ORD-00122,2024-09-11,33,34,4,2,52,1287.16,0.2,Returned,Cash on Delivery,Online Portal,2024-09-18,
+ORD-00123,2024-06-12,42,31,3,5,27,321.89,0.15,Delivered,Credit Card,Distributor,2024-06-18,2024-06-17
+ORD-00124,2024-04-06,29,33,2,4,24,504.85,0.0,Delivered,Bank Transfer,Telesales,2024-04-20,2024-04-24
+ORD-00125,2023-08-18,33,24,2,4,21,865.77,0.0,Delivered,Cash on Delivery,Direct Sales,2023-08-21,2023-08-20
+ORD-00126,2023-05-23,9,3,3,4,179,421.7,0.2,Shipped,GCash,Online Portal,2023-06-10,
+ORD-00127,2023-06-03,58,6,1,3,56,1360.72,0.2,Cancelled,GCash,Trade Fair,2023-06-23,
+ORD-00128,2023-02-18,28,8,3,2,78,1347.23,0.0,Shipped,GCash,Telesales,2023-02-28,
+ORD-00129,2024-10-09,5,8,4,5,138,1347.23,0.0,Processing,Credit Card,Direct Sales,2024-10-28,
+ORD-00130,2024-08-07,19,28,1,5,91,1136.01,0.0,Delivered,GCash,Distributor,2024-08-23,2024-08-22
+ORD-00131,2023-01-21,5,34,5,5,130,1287.16,0.1,Returned,Check,Online Portal,2023-02-05,
+ORD-00132,2024-01-01,41,25,3,3,192,1572.09,0.0,Delivered,Bank Transfer,Trade Fair,2024-01-06,2024-01-07
+ORD-00133,2023-12-13,48,22,2,1,91,867.22,0.1,Returned,Check,Telesales,2023-12-21,
+ORD-00134,2024-04-13,41,12,2,1,184,253.04,0.2,Delivered,Bank Transfer,Direct Sales,2024-04-17,2024-04-18
+ORD-00135,2024-07-10,57,3,3,3,132,421.7,0.05,Delivered,Credit Card,Distributor,2024-07-28,2024-07-26
+ORD-00136,2024-01-12,23,4,3,3,32,38.07,0.2,Shipped,Check,Telesales,2024-01-28,
+ORD-00137,2024-06-15,22,12,4,6,128,253.04,0.0,Returned,Bank Transfer,Telesales,2024-06-26,
+ORD-00138,2023-11-25,6,28,5,2,140,1136.01,0.0,Delivered,Cash on Delivery,Distributor,2023-12-01,2023-12-04
+ORD-00139,2023-12-26,29,39,4,2,177,444.53,0.05,Delivered,GCash,Telesales,2024-01-12,2024-01-15
+ORD-00140,2024-02-20,18,41,1,1,172,1454.3,0.15,Processing,Credit Card,Online Portal,2024-03-05,
+ORD-00141,2023-08-30,10,39,4,1,33,444.53,0.0,Delivered,GCash,Online Portal,2023-09-13,2023-09-17
+ORD-00142,2023-03-20,39,10,4,3,96,1186.76,0.05,Delivered,Cash on Delivery,Telesales,2023-04-10,2023-04-16
+ORD-00143,2023-07-10,21,42,3,2,30,434.63,0.0,Processing,Check,Trade Fair,2023-07-28,
+ORD-00144,2024-09-18,8,17,3,6,115,1478.98,0.0,Cancelled,Check,Direct Sales,2024-09-30,
+ORD-00145,2024-03-31,8,9,1,4,45,250.07,0.15,Returned,Cash on Delivery,Distributor,2024-04-05,
+ORD-00146,2023-06-11,46,5,5,5,75,354.38,0.0,Returned,Cash on Delivery,Trade Fair,2023-06-19,
+ORD-00147,2024-05-20,15,8,2,2,61,1347.23,0.2,Delivered,GCash,Distributor,2024-05-23,2024-05-29
+ORD-00148,2023-11-13,30,36,2,5,23,630.43,0.0,Cancelled,Check,Trade Fair,2023-11-28,
+ORD-00149,2024-10-19,27,27,5,1,33,892.32,0.0,Shipped,Check,Trade Fair,2024-10-24,
+ORD-00150,2023-05-13,23,9,5,6,151,250.07,0.0,Processing,Bank Transfer,Online Portal,2023-05-29,
+ORD-00151,2024-12-27,34,10,3,2,42,1186.76,0.0,Delivered,Cash on Delivery,Online Portal,2025-01-06,2025-01-12
+ORD-00152,2023-11-07,17,13,5,3,33,496.03,0.15,Delivered,Credit Card,Trade Fair,2023-11-27,2023-12-03
+ORD-00153,2024-09-11,38,10,2,6,160,1186.76,0.15,Returned,GCash,Online Portal,2024-09-24,
+ORD-00154,2024-08-13,53,2,1,1,165,1228.05,0.2,Cancelled,Credit Card,Trade Fair,2024-08-24,
+ORD-00155,2023-10-24,27,40,1,4,161,401.95,0.1,Shipped,Credit Card,Telesales,2023-11-05,
+ORD-00156,2024-03-26,20,30,1,6,16,325.51,0.0,Shipped,Check,Direct Sales,2024-04-11,
+ORD-00157,2023-12-20,22,39,2,3,184,444.53,0.0,Delivered,GCash,Trade Fair,2024-01-04,2024-01-07
+ORD-00158,2024-04-05,7,21,2,4,32,1235.72,0.0,Delivered,Bank Transfer,Distributor,2024-04-15,2024-04-14
+ORD-00159,2023-12-02,25,40,4,2,41,401.95,0.2,Cancelled,Cash on Delivery,Direct Sales,2023-12-23,
+ORD-00160,2023-11-12,49,11,4,5,120,124.2,0.05,Delivered,Check,Trade Fair,2023-11-30,2023-11-29
+ORD-00161,2023-02-21,30,16,2,5,91,935.86,0.0,Shipped,GCash,Telesales,2023-03-05,
+ORD-00162,2023-09-28,19,35,1,1,111,1195.53,0.0,Returned,Check,Distributor,2023-10-12,
+ORD-00163,2024-01-07,3,26,1,5,144,441.48,0.0,Delivered,Check,Trade Fair,2024-01-27,2024-01-26
+ORD-00164,2023-05-02,29,36,3,5,175,630.43,0.1,Delivered,Cash on Delivery,Distributor,2023-05-09,2023-05-13
+ORD-00165,2024-02-16,36,24,2,2,155,865.77,0.1,Delivered,Bank Transfer,Direct Sales,2024-03-06,2024-03-04
+ORD-00166,2024-09-12,46,22,4,5,117,867.22,0.0,Delivered,GCash,Distributor,2024-10-01,2024-10-04
+ORD-00167,2023-12-11,11,26,5,6,77,441.48,0.1,Returned,GCash,Trade Fair,2023-12-30,
+ORD-00168,2023-01-18,32,46,5,3,122,871.15,0.2,Delivered,Check,Trade Fair,2023-02-01,2023-01-31
+ORD-00169,2024-11-02,20,47,1,5,122,113.01,0.0,Processing,Credit Card,Online Portal,2024-11-23,
+ORD-00170,2024-09-26,38,31,2,5,162,321.89,0.15,Delivered,Bank Transfer,Trade Fair,2024-10-11,2024-10-12
+ORD-00171,2024-03-04,45,8,2,1,113,1347.23,0.0,Shipped,Credit Card,Telesales,2024-03-11,
+ORD-00172,2024-12-23,33,40,4,6,187,401.95,0.0,Processing,Credit Card,Trade Fair,2024-12-30,
+ORD-00173,2023-06-27,21,43,4,5,97,770.84,0.0,Processing,Cash on Delivery,Trade Fair,2023-07-14,
+ORD-00174,2023-09-10,23,44,3,5,124,143.46,0.0,Processing,Cash on Delivery,Direct Sales,2023-09-21,
+ORD-00175,2023-11-21,20,19,2,6,181,944.48,0.05,Delivered,Cash on Delivery,Distributor,2023-12-09,2023-12-15
+ORD-00176,2023-12-20,8,37,5,4,102,554.0,0.2,Delivered,Cash on Delivery,Online Portal,2023-12-27,2023-12-25
+ORD-00177,2023-07-26,23,29,3,6,123,1253.86,0.0,Delivered,Cash on Delivery,Direct Sales,2023-08-15,2023-08-21
+ORD-00178,2024-11-16,7,40,5,2,63,401.95,0.0,Delivered,Bank Transfer,Online Portal,2024-12-05,2024-12-06
+ORD-00179,2023-05-21,27,22,4,1,175,867.22,0.2,Processing,Credit Card,Telesales,2023-05-24,
+ORD-00180,2023-10-22,42,31,4,6,52,321.89,0.2,Delivered,Bank Transfer,Trade Fair,2023-11-04,2023-11-02
+ORD-00181,2023-06-30,15,35,1,2,107,1195.53,0.2,Returned,Check,Telesales,2023-07-04,
+ORD-00182,2024-08-04,12,48,3,1,3,962.61,0.0,Delivered,Check,Trade Fair,2024-08-10,2024-08-12
+ORD-00183,2023-07-17,34,32,2,5,120,119.53,0.0,Delivered,Check,Distributor,2023-07-23,2023-07-23
+ORD-00184,2023-10-30,46,12,1,6,87,253.04,0.2,Cancelled,Credit Card,Direct Sales,2023-11-20,
+ORD-00185,2023-03-30,40,41,4,4,132,1454.3,0.0,Cancelled,Bank Transfer,Direct Sales,2023-04-14,
+ORD-00186,2024-01-28,9,31,3,2,2,321.89,0.0,Shipped,Cash on Delivery,Distributor,2024-02-07,
+ORD-00187,2024-01-04,20,38,5,1,67,875.14,0.15,Delivered,Check,Distributor,2024-01-14,2024-01-13
+ORD-00188,2024-12-07,11,26,5,6,198,441.48,0.0,Cancelled,Cash on Delivery,Distributor,2024-12-13,
+ORD-00189,2024-04-10,40,15,2,2,123,825.79,0.0,Shipped,GCash,Telesales,2024-04-24,
+ORD-00190,2024-09-02,49,35,2,2,175,1195.53,0.2,Processing,Check,Trade Fair,2024-09-07,
+ORD-00191,2024-07-14,46,24,1,5,29,865.77,0.0,Delivered,GCash,Direct Sales,2024-08-02,2024-08-09
+ORD-00192,2023-07-30,11,21,5,4,30,1235.72,0.15,Shipped,Bank Transfer,Trade Fair,2023-08-20,
+ORD-00193,2024-04-12,29,4,4,2,132,38.07,0.05,Delivered,Check,Distributor,2024-05-03,2024-05-09
+ORD-00194,2023-08-12,47,2,4,3,1,1228.05,0.15,Delivered,Check,Distributor,2023-09-02,2023-08-31
+ORD-00195,2023-02-02,45,5,5,1,18,354.38,0.05,Shipped,Credit Card,Direct Sales,2023-02-14,
+ORD-00196,2024-01-22,50,42,4,3,98,434.63,0.05,Delivered,Credit Card,Distributor,2024-02-06,2024-02-12
+ORD-00197,2023-08-17,8,12,5,4,136,253.04,0.0,Returned,Bank Transfer,Distributor,2023-08-20,
+ORD-00198,2023-08-24,30,44,5,4,137,143.46,0.05,Shipped,Cash on Delivery,Direct Sales,2023-09-03,
+ORD-00199,2024-09-21,18,13,1,1,170,496.03,0.05,Delivered,Bank Transfer,Online Portal,2024-09-24,2024-09-25
+ORD-00200,2023-02-19,39,3,4,5,173,421.7,0.15,Cancelled,Bank Transfer,Telesales,2023-03-01,
+ORD-00201,2023-02-27,29,15,5,2,194,825.79,0.2,Processing,Cash on Delivery,Direct Sales,2023-03-06,
+ORD-00202,2024-11-19,53,47,5,3,148,113.01,0.1,Delivered,Credit Card,Trade Fair,2024-12-02,2024-12-04
+ORD-00203,2024-08-28,15,27,3,3,16,892.32,0.1,Cancelled,Check,Trade Fair,2024-09-05,
+ORD-00204,2024-06-21,32,4,3,6,172,38.07,0.05,Cancelled,Check,Telesales,2024-07-04,
+ORD-00205,2024-04-29,10,20,4,2,194,251.57,0.1,Returned,Credit Card,Distributor,2024-05-09,
+ORD-00206,2024-02-27,55,46,2,4,15,871.15,0.1,Processing,GCash,Direct Sales,2024-03-14,
+ORD-00207,2023-03-22,25,16,3,2,85,935.86,0.15,Returned,Cash on Delivery,Online Portal,2023-04-08,
+ORD-00208,2024-11-20,35,47,2,1,69,113.01,0.05,Returned,Bank Transfer,Direct Sales,2024-11-24,
+ORD-00209,2023-12-07,52,38,5,2,123,875.14,0.0,Delivered,Credit Card,Online Portal,2023-12-19,2023-12-20
+ORD-00210,2023-07-29,48,31,2,6,155,321.89,0.15,Delivered,Cash on Delivery,Distributor,2023-08-13,2023-08-19
+ORD-00211,2023-09-25,25,30,5,6,92,325.51,0.0,Processing,Check,Telesales,2023-10-09,
+ORD-00212,2023-11-17,7,47,4,3,53,113.01,0.0,Delivered,Credit Card,Direct Sales,2023-12-03,2023-12-10
+ORD-00213,2024-03-03,2,17,5,5,149,1478.98,0.15,Delivered,Cash on Delivery,Direct Sales,2024-03-15,2024-03-16
+ORD-00214,2024-12-02,25,37,2,4,141,554.0,0.15,Delivered,Check,Telesales,2024-12-15,2024-12-20
+ORD-00215,2024-07-13,11,47,3,2,36,113.01,0.15,Delivered,Bank Transfer,Trade Fair,2024-07-31,2024-08-06
+ORD-00216,2024-10-07,3,5,1,1,106,354.38,0.0,Delivered,Bank Transfer,Direct Sales,2024-10-17,2024-10-17
+ORD-00217,2024-11-13,33,30,3,1,159,325.51,0.15,Cancelled,Check,Online Portal,2024-12-01,
+ORD-00218,2024-06-26,1,35,5,4,4,1195.53,0.0,Processing,Cash on Delivery,Online Portal,2024-07-07,
+ORD-00219,2024-06-20,33,45,4,2,28,298.44,0.0,Delivered,GCash,Trade Fair,2024-06-27,2024-06-28
+ORD-00220,2024-02-20,17,23,3,4,21,275.57,0.0,Processing,Credit Card,Direct Sales,2024-03-08,
+ORD-00221,2023-02-02,20,44,1,6,167,143.46,0.2,Shipped,Check,Telesales,2023-02-07,
+ORD-00222,2023-06-25,36,31,1,6,3,321.89,0.15,Shipped,Check,Distributor,2023-06-30,
+ORD-00223,2024-12-09,37,7,5,1,59,1254.35,0.0,Shipped,Cash on Delivery,Online Portal,2024-12-30,
+ORD-00224,2023-02-03,60,5,3,5,145,354.38,0.15,Returned,Cash on Delivery,Online Portal,2023-02-11,
+ORD-00225,2023-11-03,14,38,2,6,102,875.14,0.0,Processing,Credit Card,Trade Fair,2023-11-11,
+ORD-00226,2023-05-24,54,25,5,3,99,1572.09,0.2,Processing,Cash on Delivery,Online Portal,2023-05-29,
+ORD-00227,2024-09-20,7,28,2,1,88,1136.01,0.1,Returned,Cash on Delivery,Online Portal,2024-10-05,
+ORD-00228,2024-07-20,41,18,4,4,59,1416.07,0.0,Shipped,Credit Card,Trade Fair,2024-08-04,
+ORD-00229,2023-09-10,43,25,1,5,76,1572.09,0.2,Delivered,Credit Card,Telesales,2023-09-15,2023-09-17
+ORD-00230,2024-01-05,46,41,2,6,100,1454.3,0.0,Delivered,Cash on Delivery,Telesales,2024-01-11,2024-01-09
+ORD-00231,2024-03-17,24,18,1,2,23,1416.07,0.0,Processing,GCash,Trade Fair,2024-04-03,
+ORD-00232,2023-04-06,27,7,1,1,91,1254.35,0.1,Returned,Check,Online Portal,2023-04-19,
+ORD-00233,2023-09-06,19,27,4,1,186,892.32,0.1,Processing,Credit Card,Telesales,2023-09-27,
+ORD-00234,2023-05-30,11,9,3,3,69,250.07,0.05,Delivered,Cash on Delivery,Telesales,2023-06-04,2023-06-08
+ORD-00235,2024-10-02,20,31,1,3,65,321.89,0.0,Processing,GCash,Direct Sales,2024-10-20,
+ORD-00236,2023-12-07,30,7,2,3,2,1254.35,0.05,Returned,Cash on Delivery,Telesales,2023-12-22,
+ORD-00237,2024-09-09,22,28,5,2,77,1136.01,0.0,Shipped,Cash on Delivery,Direct Sales,2024-09-18,
+ORD-00238,2024-05-17,26,21,3,6,178,1235.72,0.15,Returned,Credit Card,Distributor,2024-06-07,
+ORD-00239,2023-07-24,25,18,4,3,30,1416.07,0.1,Processing,Credit Card,Trade Fair,2023-08-14,
+ORD-00240,2023-10-26,2,47,4,6,54,113.01,0.05,Returned,Check,Telesales,2023-10-31,
+ORD-00241,2023-06-07,9,41,3,2,65,1454.3,0.15,Returned,Check,Online Portal,2023-06-23,
+ORD-00242,2024-06-02,29,39,4,5,103,444.53,0.1,Processing,Bank Transfer,Distributor,2024-06-18,
+ORD-00243,2023-09-12,45,35,5,6,22,1195.53,0.0,Delivered,Bank Transfer,Trade Fair,2023-09-26,2023-10-03
+ORD-00244,2023-01-11,42,44,4,3,111,143.46,0.0,Delivered,GCash,Trade Fair,2023-01-17,2023-01-18
+ORD-00245,2024-02-05,36,38,5,2,115,875.14,0.0,Returned,GCash,Trade Fair,2024-02-22,
+ORD-00246,2024-03-01,10,23,1,4,27,275.57,0.0,Delivered,Cash on Delivery,Distributor,2024-03-06,2024-03-06
+ORD-00247,2024-05-02,22,30,2,5,124,325.51,0.0,Shipped,Check,Distributor,2024-05-08,
+ORD-00248,2023-12-18,5,20,1,6,30,251.57,0.0,Cancelled,Credit Card,Direct Sales,2023-12-24,
+ORD-00249,2024-03-12,34,12,5,2,85,253.04,0.1,Delivered,Credit Card,Direct Sales,2024-03-29,2024-04-02
+ORD-00250,2024-09-20,41,43,4,4,8,770.84,0.15,Shipped,GCash,Telesales,2024-09-29,
+ORD-00251,2024-12-21,25,1,2,2,72,632.7,0.2,Processing,Bank Transfer,Trade Fair,2024-12-26,
+ORD-00252,2023-09-26,12,24,3,2,118,865.77,0.0,Processing,Cash on Delivery,Trade Fair,2023-10-14,
+ORD-00253,2023-12-27,25,40,4,5,30,401.95,0.0,Processing,Credit Card,Distributor,2024-01-13,
+ORD-00254,2023-11-17,59,40,5,1,173,401.95,0.0,Delivered,Bank Transfer,Direct Sales,2023-11-23,2023-11-25
+ORD-00255,2024-09-02,24,45,2,5,100,298.44,0.05,Processing,Check,Telesales,2024-09-09,
+ORD-00256,2024-07-22,12,32,5,6,166,119.53,0.0,Shipped,Cash on Delivery,Direct Sales,2024-07-30,
+ORD-00257,2024-01-03,12,21,4,5,14,1235.72,0.2,Shipped,Credit Card,Direct Sales,2024-01-06,
+ORD-00258,2024-02-23,53,25,5,5,168,1572.09,0.05,Shipped,Check,Telesales,2024-03-12,
+ORD-00259,2023-10-27,11,6,5,1,195,1360.72,0.0,Delivered,GCash,Distributor,2023-10-31,2023-11-01
+ORD-00260,2024-05-22,11,30,5,6,198,325.51,0.2,Processing,Bank Transfer,Trade Fair,2024-06-11,
+ORD-00261,2023-02-12,8,18,5,3,139,1416.07,0.2,Processing,Credit Card,Telesales,2023-03-01,
+ORD-00262,2023-09-27,7,48,2,3,9,962.61,0.05,Returned,Bank Transfer,Telesales,2023-10-11,
+ORD-00263,2024-12-06,56,8,2,2,189,1347.23,0.1,Returned,GCash,Telesales,2024-12-20,
+ORD-00264,2023-03-02,11,40,2,2,53,401.95,0.2,Delivered,Cash on Delivery,Trade Fair,2023-03-23,2023-03-29
+ORD-00265,2024-08-09,35,11,3,6,75,124.2,0.0,Returned,GCash,Online Portal,2024-08-20,
+ORD-00266,2024-12-19,9,27,1,3,168,892.32,0.0,Delivered,Cash on Delivery,Direct Sales,2024-12-26,2024-12-26
+ORD-00267,2024-10-09,49,44,4,4,37,143.46,0.1,Cancelled,Check,Telesales,2024-10-20,
+ORD-00268,2023-10-12,29,5,1,4,132,354.38,0.15,Shipped,Check,Distributor,2023-10-26,
+ORD-00269,2024-11-11,38,1,1,6,118,632.7,0.15,Returned,Bank Transfer,Trade Fair,2024-11-25,
+ORD-00270,2023-11-27,26,14,4,2,127,1531.1,0.0,Delivered,GCash,Direct Sales,2023-12-09,2023-12-15
+ORD-00271,2023-02-17,37,32,3,6,196,119.53,0.0,Cancelled,Check,Online Portal,2023-02-23,
+ORD-00272,2023-07-27,8,11,4,4,1,124.2,0.05,Cancelled,Cash on Delivery,Direct Sales,2023-08-03,
+ORD-00273,2023-03-26,56,18,1,6,93,1416.07,0.0,Cancelled,Credit Card,Online Portal,2023-04-09,
+ORD-00274,2023-08-28,26,41,3,6,180,1454.3,0.2,Cancelled,Bank Transfer,Online Portal,2023-09-13,
+ORD-00275,2023-08-20,1,14,4,1,34,1531.1,0.1,Cancelled,Check,Online Portal,2023-09-08,
+ORD-00276,2023-05-16,1,45,3,1,109,298.44,0.15,Delivered,Check,Online Portal,2023-06-03,2023-06-04
+ORD-00277,2023-05-21,47,7,1,3,95,1254.35,0.0,Returned,Credit Card,Direct Sales,2023-06-05,
+ORD-00278,2023-06-18,5,34,5,1,157,1287.16,0.15,Delivered,Credit Card,Telesales,2023-07-05,2023-07-06
+ORD-00279,2023-05-24,40,44,4,2,23,143.46,0.0,Processing,Check,Distributor,2023-05-30,
+ORD-00280,2023-03-28,28,21,2,2,71,1235.72,0.15,Processing,GCash,Trade Fair,2023-04-07,
+ORD-00281,2024-11-05,47,39,3,6,7,444.53,0.2,Delivered,GCash,Trade Fair,2024-11-17,2024-11-23
+ORD-00282,2023-09-03,13,48,4,3,166,962.61,0.0,Shipped,Bank Transfer,Direct Sales,2023-09-21,
+ORD-00283,2024-01-05,32,41,5,1,136,1454.3,0.0,Delivered,GCash,Telesales,2024-01-18,2024-01-22
+ORD-00284,2023-01-18,24,35,2,4,198,1195.53,0.0,Delivered,Cash on Delivery,Direct Sales,2023-02-08,2023-02-06
+ORD-00285,2024-12-30,3,4,4,5,74,38.07,0.15,Returned,Check,Telesales,2025-01-18,
+ORD-00286,2024-09-22,45,26,1,6,138,441.48,0.1,Delivered,Cash on Delivery,Online Portal,2024-09-29,2024-09-28
+ORD-00287,2024-08-23,33,14,2,5,84,1531.1,0.05,Delivered,Credit Card,Online Portal,2024-08-28,2024-09-01
+ORD-00288,2024-09-15,16,6,4,1,117,1360.72,0.1,Delivered,Bank Transfer,Online Portal,2024-09-19,2024-09-19
+ORD-00289,2024-06-19,46,9,1,2,128,250.07,0.0,Returned,Cash on Delivery,Direct Sales,2024-07-08,
+ORD-00290,2023-01-31,24,9,3,6,31,250.07,0.2,Returned,Check,Distributor,2023-02-13,
+ORD-00291,2023-03-20,34,5,3,6,148,354.38,0.15,Shipped,GCash,Distributor,2023-04-07,
+ORD-00292,2023-09-19,4,32,5,2,95,119.53,0.0,Processing,Bank Transfer,Direct Sales,2023-09-25,
+ORD-00293,2023-02-17,48,33,1,1,4,504.85,0.0,Delivered,Credit Card,Direct Sales,2023-03-07,2023-03-11
+ORD-00294,2024-03-05,60,3,5,6,190,421.7,0.15,Delivered,Check,Distributor,2024-03-15,2024-03-16
+ORD-00295,2024-11-20,18,5,5,3,31,354.38,0.1,Delivered,GCash,Online Portal,2024-11-24,2024-11-25
+ORD-00296,2023-11-15,26,5,4,3,199,354.38,0.2,Delivered,Check,Online Portal,2023-11-28,2023-12-04
+ORD-00297,2024-09-29,24,13,3,5,78,496.03,0.15,Shipped,Cash on Delivery,Trade Fair,2024-10-09,
+ORD-00298,2024-02-24,32,13,5,2,39,496.03,0.0,Delivered,Cash on Delivery,Online Portal,2024-02-27,2024-03-04
+ORD-00299,2023-04-17,22,1,4,6,187,632.7,0.0,Processing,Credit Card,Telesales,2023-04-26,
+ORD-00300,2023-02-14,32,4,2,6,72,38.07,0.0,Returned,GCash,Telesales,2023-02-24,
+ORD-00301,2023-04-08,45,24,4,6,22,865.77,0.1,Delivered,Bank Transfer,Trade Fair,2023-04-27,2023-05-01
+ORD-00302,2023-10-26,37,4,4,6,34,38.07,0.0,Returned,Cash on Delivery,Telesales,2023-11-06,
+ORD-00303,2023-08-28,45,48,3,3,116,962.61,0.0,Delivered,GCash,Online Portal,2023-09-02,2023-09-02
+ORD-00304,2024-02-21,10,7,2,4,120,1254.35,0.0,Processing,Cash on Delivery,Direct Sales,2024-02-27,
+ORD-00305,2023-06-11,29,20,4,3,31,251.57,0.0,Returned,GCash,Online Portal,2023-06-23,
+ORD-00306,2023-12-31,14,21,2,1,183,1235.72,0.0,Processing,Bank Transfer,Distributor,2024-01-15,
+ORD-00307,2024-07-17,17,12,1,4,116,253.04,0.1,Delivered,Bank Transfer,Direct Sales,2024-07-27,2024-08-01
+ORD-00308,2024-02-15,8,1,1,2,34,632.7,0.0,Cancelled,Bank Transfer,Trade Fair,2024-02-29,
+ORD-00309,2024-10-23,38,17,1,1,17,1478.98,0.0,Returned,Credit Card,Online Portal,2024-11-09,
+ORD-00310,2023-06-22,58,22,1,1,119,867.22,0.0,Shipped,Check,Telesales,2023-07-13,
+ORD-00311,2023-07-11,2,25,4,2,91,1572.09,0.0,Delivered,Credit Card,Online Portal,2023-07-22,2023-07-27
+ORD-00312,2024-05-25,40,40,5,2,166,401.95,0.0,Processing,Check,Online Portal,2024-06-10,
+ORD-00313,2024-10-20,6,18,4,2,108,1416.07,0.0,Delivered,Bank Transfer,Telesales,2024-11-08,2024-11-14
+ORD-00314,2024-05-11,51,46,3,4,140,871.15,0.2,Processing,GCash,Distributor,2024-05-25,
+ORD-00315,2023-08-13,25,18,2,1,82,1416.07,0.1,Returned,Cash on Delivery,Online Portal,2023-08-16,
+ORD-00316,2023-08-27,52,31,5,3,197,321.89,0.1,Delivered,Credit Card,Distributor,2023-09-04,2023-09-05
+ORD-00317,2024-02-02,35,48,1,2,148,962.61,0.2,Returned,Credit Card,Direct Sales,2024-02-16,
+ORD-00318,2024-08-28,16,38,3,6,179,875.14,0.0,Cancelled,Cash on Delivery,Trade Fair,2024-08-31,
+ORD-00319,2023-11-13,37,10,5,2,127,1186.76,0.1,Shipped,Bank Transfer,Online Portal,2023-11-21,
+ORD-00320,2024-05-04,4,15,5,2,6,825.79,0.1,Delivered,Credit Card,Direct Sales,2024-05-07,2024-05-14
+ORD-00321,2023-06-01,22,46,2,3,16,871.15,0.0,Cancelled,Credit Card,Online Portal,2023-06-22,
+ORD-00322,2024-11-09,55,34,3,1,96,1287.16,0.15,Processing,Bank Transfer,Distributor,2024-11-24,
+ORD-00323,2024-10-16,20,21,2,2,188,1235.72,0.05,Cancelled,Cash on Delivery,Direct Sales,2024-11-03,
+ORD-00324,2024-08-26,46,36,5,3,58,630.43,0.15,Shipped,Cash on Delivery,Distributor,2024-09-03,
+ORD-00325,2024-08-04,9,12,1,6,147,253.04,0.05,Delivered,Cash on Delivery,Trade Fair,2024-08-08,2024-08-15
+ORD-00326,2023-12-06,15,41,5,1,128,1454.3,0.0,Delivered,Cash on Delivery,Direct Sales,2023-12-11,2023-12-14
+ORD-00327,2023-08-03,41,6,3,4,3,1360.72,0.0,Cancelled,Bank Transfer,Distributor,2023-08-13,
+ORD-00328,2024-03-05,17,7,1,1,99,1254.35,0.05,Shipped,Check,Telesales,2024-03-13,
+ORD-00329,2024-08-14,23,35,4,1,123,1195.53,0.2,Delivered,Bank Transfer,Online Portal,2024-08-24,2024-08-29
+ORD-00330,2023-12-17,19,2,3,3,27,1228.05,0.0,Shipped,Credit Card,Online Portal,2023-12-25,
+ORD-00331,2024-12-22,36,6,3,5,158,1360.72,0.05,Shipped,Credit Card,Trade Fair,2024-12-25,
+ORD-00332,2023-07-30,57,28,2,1,26,1136.01,0.0,Shipped,GCash,Trade Fair,2023-08-08,
+ORD-00333,2023-02-20,17,43,3,3,61,770.84,0.0,Processing,GCash,Telesales,2023-03-07,
+ORD-00334,2023-10-29,10,4,3,1,110,38.07,0.0,Delivered,Bank Transfer,Direct Sales,2023-11-16,2023-11-15
+ORD-00335,2023-04-29,11,41,3,1,122,1454.3,0.2,Returned,Check,Telesales,2023-05-11,
+ORD-00336,2024-02-01,32,43,3,1,165,770.84,0.1,Delivered,Cash on Delivery,Direct Sales,2024-02-09,2024-02-13
+ORD-00337,2023-08-20,29,3,3,4,120,421.7,0.0,Processing,Bank Transfer,Direct Sales,2023-08-31,
+ORD-00338,2024-07-08,49,45,1,1,172,298.44,0.0,Returned,GCash,Direct Sales,2024-07-24,
+ORD-00339,2024-12-04,36,4,4,5,108,38.07,0.1,Processing,Credit Card,Telesales,2024-12-22,
+ORD-00340,2024-08-07,20,6,4,6,9,1360.72,0.1,Returned,GCash,Trade Fair,2024-08-26,
+ORD-00341,2023-07-17,10,8,4,2,43,1347.23,0.0,Delivered,Bank Transfer,Telesales,2023-07-24,2023-07-28
+ORD-00342,2023-03-10,13,41,2,5,67,1454.3,0.0,Shipped,GCash,Telesales,2023-03-15,
+ORD-00343,2023-01-13,36,21,3,5,118,1235.72,0.2,Processing,Check,Online Portal,2023-02-03,
+ORD-00344,2023-04-13,27,10,2,5,151,1186.76,0.1,Processing,Bank Transfer,Distributor,2023-04-19,
+ORD-00345,2024-11-01,56,35,3,4,68,1195.53,0.05,Processing,GCash,Telesales,2024-11-19,
+ORD-00346,2024-09-15,3,12,3,4,37,253.04,0.1,Delivered,Cash on Delivery,Direct Sales,2024-09-30,2024-10-04
+ORD-00347,2023-12-12,4,48,4,3,96,962.61,0.0,Delivered,Check,Online Portal,2023-12-24,2023-12-26
+ORD-00348,2023-11-25,56,15,2,3,191,825.79,0.05,Cancelled,Check,Trade Fair,2023-12-06,
+ORD-00349,2024-02-21,42,6,2,4,55,1360.72,0.2,Returned,GCash,Distributor,2024-03-10,
+ORD-00350,2024-12-27,53,4,5,2,17,38.07,0.0,Shipped,Credit Card,Trade Fair,2025-01-15,
+ORD-00351,2023-07-25,57,37,1,2,50,554.0,0.2,Delivered,Check,Online Portal,2023-07-29,2023-07-27
+ORD-00352,2024-04-20,59,24,2,3,95,865.77,0.2,Shipped,Bank Transfer,Online Portal,2024-05-09,
+ORD-00353,2024-04-30,16,24,4,5,115,865.77,0.0,Processing,Cash on Delivery,Distributor,2024-05-21,
+ORD-00354,2023-02-20,11,17,1,3,8,1478.98,0.05,Returned,GCash,Direct Sales,2023-02-28,
+ORD-00355,2024-10-29,55,15,2,6,53,825.79,0.0,Processing,Bank Transfer,Online Portal,2024-11-14,
+ORD-00356,2023-09-16,31,9,2,5,3,250.07,0.0,Cancelled,Cash on Delivery,Telesales,2023-09-28,
+ORD-00357,2024-04-22,58,25,3,4,65,1572.09,0.0,Cancelled,GCash,Trade Fair,2024-05-04,
+ORD-00358,2024-01-19,26,38,1,1,131,875.14,0.15,Cancelled,GCash,Trade Fair,2024-02-08,
+ORD-00359,2023-10-11,19,20,1,4,17,251.57,0.0,Returned,Cash on Delivery,Distributor,2023-10-24,
+ORD-00360,2023-09-04,42,46,3,2,39,871.15,0.1,Returned,GCash,Telesales,2023-09-08,
+ORD-00361,2024-05-24,43,21,2,6,7,1235.72,0.15,Delivered,Check,Telesales,2024-06-05,2024-06-09
+ORD-00362,2023-07-14,48,3,5,6,147,421.7,0.2,Cancelled,Credit Card,Trade Fair,2023-07-27,
+ORD-00363,2023-06-24,41,31,3,5,77,321.89,0.2,Delivered,Bank Transfer,Telesales,2023-07-14,2023-07-16
+ORD-00364,2023-07-07,9,48,3,6,144,962.61,0.2,Cancelled,Bank Transfer,Direct Sales,2023-07-20,
+ORD-00365,2023-09-24,23,15,3,4,85,825.79,0.0,Delivered,Bank Transfer,Telesales,2023-10-15,2023-10-20
+ORD-00366,2024-04-28,4,41,5,5,159,1454.3,0.0,Processing,Bank Transfer,Telesales,2024-05-07,
+ORD-00367,2023-07-25,34,20,4,1,39,251.57,0.0,Shipped,GCash,Telesales,2023-08-07,
+ORD-00368,2024-10-08,10,21,2,1,125,1235.72,0.0,Delivered,Bank Transfer,Telesales,2024-10-16,2024-10-14
+ORD-00369,2024-05-16,18,14,2,5,196,1531.1,0.0,Delivered,Check,Telesales,2024-05-21,2024-05-28
+ORD-00370,2024-06-30,26,28,4,4,2,1136.01,0.0,Cancelled,Cash on Delivery,Online Portal,2024-07-09,
+ORD-00371,2023-01-05,58,21,5,2,5,1235.72,0.15,Delivered,Cash on Delivery,Direct Sales,2023-01-15,2023-01-18
+ORD-00372,2023-03-08,7,25,5,5,79,1572.09,0.0,Delivered,Check,Trade Fair,2023-03-12,2023-03-14
+ORD-00373,2023-12-17,39,34,3,4,176,1287.16,0.0,Delivered,Credit Card,Telesales,2024-01-04,2024-01-05
+ORD-00374,2023-01-23,2,15,2,6,34,825.79,0.0,Processing,Credit Card,Online Portal,2023-02-13,
+ORD-00375,2024-07-01,24,46,1,4,164,871.15,0.0,Processing,Bank Transfer,Online Portal,2024-07-05,
+ORD-00376,2024-03-30,42,2,1,6,30,1228.05,0.05,Delivered,Cash on Delivery,Telesales,2024-04-14,2024-04-20
+ORD-00377,2023-01-10,45,10,2,6,176,1186.76,0.15,Shipped,Bank Transfer,Trade Fair,2023-01-22,
+ORD-00378,2023-04-18,18,40,5,6,36,401.95,0.05,Cancelled,GCash,Online Portal,2023-05-07,
+ORD-00379,2023-07-24,19,8,1,4,51,1347.23,0.1,Returned,GCash,Direct Sales,2023-08-04,
+ORD-00380,2024-07-15,23,46,4,3,42,871.15,0.0,Delivered,Cash on Delivery,Direct Sales,2024-08-02,2024-08-07
+ORD-00381,2024-05-20,1,1,1,1,147,632.7,0.15,Delivered,Bank Transfer,Online Portal,2024-05-27,2024-06-02
+ORD-00382,2024-04-20,58,17,2,4,76,1478.98,0.0,Delivered,Bank Transfer,Distributor,2024-04-24,2024-04-24
+ORD-00383,2023-04-08,24,44,3,4,190,143.46,0.0,Delivered,Credit Card,Distributor,2023-04-12,2023-04-12
+ORD-00384,2024-01-17,23,29,5,3,188,1253.86,0.0,Delivered,Check,Telesales,2024-01-30,2024-01-29
+ORD-00385,2024-03-07,30,18,4,6,123,1416.07,0.2,Delivered,Bank Transfer,Direct Sales,2024-03-15,2024-03-15
+ORD-00386,2024-03-24,7,27,5,4,146,892.32,0.15,Processing,Check,Distributor,2024-04-01,
+ORD-00387,2024-02-26,40,2,2,4,125,1228.05,0.0,Delivered,Cash on Delivery,Distributor,2024-03-14,2024-03-13
+ORD-00388,2024-08-01,1,46,5,6,148,871.15,0.15,Cancelled,Cash on Delivery,Trade Fair,2024-08-11,
+ORD-00389,2023-09-12,34,45,5,1,111,298.44,0.15,Delivered,Credit Card,Trade Fair,2023-09-30,2023-10-04
+ORD-00390,2024-06-01,58,40,1,1,165,401.95,0.0,Returned,Check,Direct Sales,2024-06-19,
+ORD-00391,2023-02-21,5,32,3,2,85,119.53,0.0,Delivered,Check,Telesales,2023-03-12,2023-03-18
+ORD-00392,2024-08-09,53,16,1,4,114,935.86,0.2,Delivered,Check,Distributor,2024-08-26,2024-08-31
+ORD-00393,2023-02-06,8,32,1,1,104,119.53,0.05,Processing,Bank Transfer,Online Portal,2023-02-26,
+ORD-00394,2024-07-29,51,39,5,6,78,444.53,0.1,Cancelled,Check,Distributor,2024-08-07,
+ORD-00395,2024-09-26,24,4,2,4,85,38.07,0.1,Cancelled,Cash on Delivery,Telesales,2024-10-14,
+ORD-00396,2024-10-10,8,7,2,1,88,1254.35,0.0,Processing,GCash,Distributor,2024-10-22,
+ORD-00397,2024-02-24,45,7,1,2,127,1254.35,0.0,Delivered,Credit Card,Direct Sales,2024-03-01,2024-03-08
+ORD-00398,2023-12-13,8,26,2,4,49,441.48,0.15,Returned,Check,Online Portal,2023-12-19,
+ORD-00399,2024-04-13,60,41,5,1,198,1454.3,0.05,Processing,Credit Card,Telesales,2024-05-04,
+ORD-00400,2024-08-22,1,34,1,5,111,1287.16,0.2,Processing,Credit Card,Trade Fair,2024-09-09,
+ORD-00401,2024-09-06,12,47,2,1,100,113.01,0.15,Processing,Check,Telesales,2024-09-19,
+ORD-00402,2023-10-29,39,45,2,3,102,298.44,0.0,Returned,Credit Card,Direct Sales,2023-11-15,
+ORD-00403,2023-11-18,27,39,5,3,180,444.53,0.1,Cancelled,Credit Card,Direct Sales,2023-12-08,
+ORD-00404,2023-05-16,14,40,3,6,89,401.95,0.15,Processing,GCash,Distributor,2023-05-24,
+ORD-00405,2024-08-07,46,8,3,5,123,1347.23,0.1,Cancelled,GCash,Distributor,2024-08-23,
+ORD-00406,2024-01-26,57,28,1,5,28,1136.01,0.0,Delivered,Credit Card,Distributor,2024-02-02,2024-01-31
+ORD-00407,2023-03-05,49,11,3,6,65,124.2,0.0,Delivered,Bank Transfer,Distributor,2023-03-17,2023-03-23
+ORD-00408,2024-07-29,53,29,1,5,173,1253.86,0.15,Cancelled,GCash,Telesales,2024-08-08,
+ORD-00409,2024-01-26,16,33,3,6,171,504.85,0.0,Shipped,Cash on Delivery,Trade Fair,2024-02-10,
+ORD-00410,2024-03-29,4,1,3,2,159,632.7,0.2,Cancelled,Cash on Delivery,Trade Fair,2024-04-08,
+ORD-00411,2023-07-18,35,48,5,2,199,962.61,0.15,Shipped,Credit Card,Online Portal,2023-07-30,
+ORD-00412,2024-03-14,12,12,5,1,97,253.04,0.0,Processing,Cash on Delivery,Direct Sales,2024-03-25,
+ORD-00413,2024-12-27,11,38,3,1,85,875.14,0.05,Delivered,Cash on Delivery,Trade Fair,2025-01-03,2025-01-03
+ORD-00414,2024-08-09,4,41,5,6,78,1454.3,0.05,Delivered,Cash on Delivery,Trade Fair,2024-08-29,2024-08-28
+ORD-00415,2024-03-01,15,12,5,1,130,253.04,0.0,Processing,Check,Online Portal,2024-03-21,
+ORD-00416,2024-01-05,23,15,2,6,85,825.79,0.0,Delivered,GCash,Telesales,2024-01-17,2024-01-24
+ORD-00417,2024-04-01,36,42,1,1,172,434.63,0.0,Cancelled,GCash,Trade Fair,2024-04-11,
+ORD-00418,2023-09-20,16,3,3,4,30,421.7,0.05,Cancelled,Cash on Delivery,Online Portal,2023-10-10,
+ORD-00419,2024-05-13,59,34,3,5,131,1287.16,0.05,Delivered,Cash on Delivery,Trade Fair,2024-05-17,2024-05-18
+ORD-00420,2024-10-03,6,7,2,5,137,1254.35,0.0,Delivered,Check,Online Portal,2024-10-08,2024-10-09
+ORD-00421,2024-12-03,14,35,4,6,19,1195.53,0.15,Delivered,Cash on Delivery,Online Portal,2024-12-10,2024-12-15
+ORD-00422,2023-03-14,6,5,1,2,65,354.38,0.1,Returned,Credit Card,Distributor,2023-04-04,
+ORD-00423,2023-11-20,27,25,4,6,104,1572.09,0.05,Shipped,Bank Transfer,Trade Fair,2023-11-23,
+ORD-00424,2024-08-22,1,42,5,1,194,434.63,0.15,Cancelled,Bank Transfer,Distributor,2024-08-26,
+ORD-00425,2024-09-13,60,33,1,3,176,504.85,0.0,Delivered,Check,Telesales,2024-09-18,2024-09-23
+ORD-00426,2023-08-14,53,43,1,4,41,770.84,0.1,Cancelled,Check,Trade Fair,2023-08-21,
+ORD-00427,2024-10-25,19,41,2,3,174,1454.3,0.2,Delivered,GCash,Direct Sales,2024-11-08,2024-11-14
+ORD-00428,2024-07-04,8,3,1,5,153,421.7,0.05,Delivered,Credit Card,Distributor,2024-07-24,2024-07-26
+ORD-00429,2023-08-15,14,27,5,2,42,892.32,0.0,Delivered,Credit Card,Trade Fair,2023-08-26,2023-08-25
+ORD-00430,2023-03-16,55,4,5,4,166,38.07,0.1,Cancelled,Bank Transfer,Distributor,2023-03-28,
+ORD-00431,2023-05-12,7,13,5,4,85,496.03,0.0,Delivered,GCash,Online Portal,2023-05-22,2023-05-24
+ORD-00432,2024-09-23,58,13,3,4,116,496.03,0.0,Cancelled,GCash,Direct Sales,2024-10-05,
+ORD-00433,2023-01-05,37,37,3,3,110,554.0,0.0,Delivered,Check,Distributor,2023-01-18,2023-01-19
+ORD-00434,2024-05-06,54,24,2,6,188,865.77,0.0,Shipped,Cash on Delivery,Distributor,2024-05-23,
+ORD-00435,2023-03-25,32,36,1,2,166,630.43,0.1,Returned,Credit Card,Trade Fair,2023-04-05,
+ORD-00436,2024-06-03,13,17,1,6,20,1478.98,0.0,Returned,GCash,Trade Fair,2024-06-06,
+ORD-00437,2024-07-10,26,38,2,1,142,875.14,0.0,Shipped,Credit Card,Distributor,2024-07-30,
+ORD-00438,2024-04-20,26,15,5,6,75,825.79,0.0,Processing,Bank Transfer,Telesales,2024-05-09,
+ORD-00439,2024-09-20,24,33,1,6,62,504.85,0.2,Returned,GCash,Direct Sales,2024-09-28,
+ORD-00440,2023-05-30,29,11,2,5,145,124.2,0.15,Delivered,Credit Card,Telesales,2023-06-17,2023-06-15
+ORD-00441,2024-11-15,15,5,3,3,60,354.38,0.0,Processing,Cash on Delivery,Telesales,2024-11-24,
+ORD-00442,2023-04-16,31,30,1,1,167,325.51,0.0,Cancelled,Cash on Delivery,Distributor,2023-05-05,
+ORD-00443,2024-01-23,38,35,5,2,97,1195.53,0.15,Processing,Bank Transfer,Trade Fair,2024-02-06,
+ORD-00444,2023-12-20,17,25,2,5,104,1572.09,0.0,Returned,Check,Trade Fair,2024-01-07,
+ORD-00445,2023-03-20,1,33,2,4,43,504.85,0.0,Cancelled,Cash on Delivery,Direct Sales,2023-04-08,
+ORD-00446,2023-05-02,10,12,2,3,155,253.04,0.15,Shipped,Cash on Delivery,Online Portal,2023-05-12,
+ORD-00447,2023-06-15,31,44,4,4,54,143.46,0.1,Delivered,Bank Transfer,Direct Sales,2023-07-01,2023-07-02
+ORD-00448,2023-02-10,37,38,2,2,162,875.14,0.1,Delivered,Credit Card,Distributor,2023-03-03,2023-03-01
+ORD-00449,2024-10-14,60,12,5,4,154,253.04,0.1,Cancelled,Cash on Delivery,Online Portal,2024-10-17,
+ORD-00450,2023-08-13,14,29,5,4,124,1253.86,0.0,Processing,Credit Card,Trade Fair,2023-08-29,
+ORD-00451,2023-06-21,53,12,5,6,131,253.04,0.0,Shipped,GCash,Trade Fair,2023-07-04,
+ORD-00452,2023-01-17,5,15,4,4,34,825.79,0.0,Processing,GCash,Telesales,2023-01-26,
+ORD-00453,2024-09-21,53,10,5,1,46,1186.76,0.05,Returned,GCash,Trade Fair,2024-09-25,
+ORD-00454,2024-09-09,49,8,1,4,169,1347.23,0.0,Returned,Bank Transfer,Telesales,2024-09-29,
+ORD-00455,2024-03-15,34,27,3,1,179,892.32,0.1,Returned,Check,Telesales,2024-03-25,
+ORD-00456,2023-09-18,23,38,5,1,109,875.14,0.0,Returned,Credit Card,Online Portal,2023-10-06,
+ORD-00457,2023-01-06,19,39,5,4,66,444.53,0.0,Processing,GCash,Online Portal,2023-01-09,
+ORD-00458,2023-11-20,34,1,4,6,53,632.7,0.15,Delivered,Credit Card,Telesales,2023-12-06,2023-12-05
+ORD-00459,2024-08-01,42,38,3,3,138,875.14,0.05,Processing,Cash on Delivery,Telesales,2024-08-15,
+ORD-00460,2023-07-03,49,14,4,5,143,1531.1,0.05,Processing,GCash,Telesales,2023-07-17,
+ORD-00461,2024-02-12,17,20,5,3,199,251.57,0.15,Returned,Bank Transfer,Direct Sales,2024-02-19,
+ORD-00462,2024-02-15,29,45,2,1,55,298.44,0.1,Returned,GCash,Trade Fair,2024-02-28,
+ORD-00463,2023-01-06,45,44,1,2,100,143.46,0.15,Returned,Credit Card,Telesales,2023-01-11,
+ORD-00464,2023-08-16,60,39,4,1,17,444.53,0.0,Delivered,Bank Transfer,Telesales,2023-08-30,2023-09-06
+ORD-00465,2024-12-29,60,26,5,6,134,441.48,0.0,Returned,Credit Card,Telesales,2025-01-02,
+ORD-00466,2023-07-19,29,1,2,6,133,632.7,0.0,Returned,GCash,Trade Fair,2023-07-23,
+ORD-00467,2023-02-06,34,45,2,5,44,298.44,0.15,Delivered,Credit Card,Online Portal,2023-02-20,2023-02-18
+ORD-00468,2024-08-23,18,26,3,6,102,441.48,0.05,Processing,Bank Transfer,Online Portal,2024-09-01,
+ORD-00469,2024-07-26,59,6,5,3,186,1360.72,0.2,Delivered,Cash on Delivery,Direct Sales,2024-08-16,2024-08-19
+ORD-00470,2023-09-25,39,13,4,4,148,496.03,0.0,Shipped,GCash,Online Portal,2023-10-03,
+ORD-00471,2024-06-09,36,5,5,3,88,354.38,0.0,Processing,GCash,Distributor,2024-06-20,
+ORD-00472,2023-09-07,45,29,4,5,124,1253.86,0.2,Returned,Check,Telesales,2023-09-20,
+ORD-00473,2023-03-11,58,38,1,4,30,875.14,0.0,Cancelled,Credit Card,Direct Sales,2023-03-26,
+ORD-00474,2023-01-10,52,21,4,3,133,1235.72,0.1,Delivered,Bank Transfer,Telesales,2023-01-21,2023-01-23
+ORD-00475,2024-05-02,44,48,3,1,142,962.61,0.0,Delivered,GCash,Distributor,2024-05-15,2024-05-16
+ORD-00476,2023-08-29,12,48,2,4,189,962.61,0.0,Returned,Cash on Delivery,Direct Sales,2023-09-08,
+ORD-00477,2023-04-20,15,13,2,5,92,496.03,0.0,Delivered,GCash,Online Portal,2023-04-26,2023-05-01
+ORD-00478,2023-11-19,49,35,1,4,96,1195.53,0.1,Processing,Cash on Delivery,Telesales,2023-12-07,
+ORD-00479,2024-08-13,12,33,3,4,57,504.85,0.2,Delivered,Check,Telesales,2024-08-20,2024-08-26
+ORD-00480,2024-12-03,35,3,5,3,101,421.7,0.2,Shipped,Bank Transfer,Trade Fair,2024-12-11,
+ORD-00481,2024-01-24,30,21,1,1,173,1235.72,0.0,Delivered,Cash on Delivery,Trade Fair,2024-02-14,2024-02-17
+ORD-00482,2023-10-03,56,17,2,5,68,1478.98,0.0,Processing,Cash on Delivery,Distributor,2023-10-21,
+ORD-00483,2024-01-17,12,32,4,2,108,119.53,0.15,Returned,Check,Distributor,2024-01-31,
+ORD-00484,2023-08-23,29,12,5,2,148,253.04,0.15,Cancelled,Cash on Delivery,Direct Sales,2023-08-29,
+ORD-00485,2023-06-03,36,28,4,2,38,1136.01,0.2,Returned,Bank Transfer,Direct Sales,2023-06-21,
+ORD-00486,2023-11-20,27,32,2,6,133,119.53,0.1,Delivered,GCash,Trade Fair,2023-12-08,2023-12-10
+ORD-00487,2023-08-09,4,26,1,6,42,441.48,0.0,Shipped,Bank Transfer,Telesales,2023-08-20,
+ORD-00488,2024-07-24,48,22,3,3,93,867.22,0.1,Delivered,Check,Online Portal,2024-08-04,2024-08-02
+ORD-00489,2024-10-27,23,44,5,2,148,143.46,0.1,Delivered,Cash on Delivery,Distributor,2024-11-16,2024-11-18
+ORD-00490,2024-01-26,44,33,4,6,115,504.85,0.0,Shipped,Credit Card,Direct Sales,2024-02-07,
+ORD-00491,2024-02-19,41,22,4,6,157,867.22,0.1,Delivered,Cash on Delivery,Direct Sales,2024-02-24,2024-02-24
+ORD-00492,2024-10-22,21,21,3,6,69,1235.72,0.1,Delivered,Cash on Delivery,Trade Fair,2024-11-06,2024-11-11
+ORD-00493,2023-01-24,34,29,4,2,48,1253.86,0.2,Cancelled,Credit Card,Distributor,2023-01-31,
+ORD-00494,2023-04-16,48,45,1,2,43,298.44,0.05,Delivered,GCash,Online Portal,2023-04-22,2023-04-27
+ORD-00495,2024-09-24,2,26,5,1,27,441.48,0.0,Delivered,Cash on Delivery,Direct Sales,2024-10-01,2024-10-05
+ORD-00496,2023-05-15,16,48,3,4,161,962.61,0.0,Returned,Credit Card,Online Portal,2023-06-03,
+ORD-00497,2024-07-07,3,43,3,3,122,770.84,0.05,Processing,Check,Direct Sales,2024-07-18,
+ORD-00498,2024-10-08,45,35,2,5,153,1195.53,0.05,Shipped,GCash,Trade Fair,2024-10-29,
+ORD-00499,2023-04-02,20,23,4,5,59,275.57,0.2,Delivered,Check,Distributor,2023-04-19,2023-04-22
+ORD-00500,2023-05-20,10,20,1,1,134,251.57,0.2,Delivered,GCash,Online Portal,2023-06-03,2023-06-08

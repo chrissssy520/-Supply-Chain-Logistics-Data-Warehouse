@@ -1,0 +1,7 @@
+carrier_id,carrier_name,service_type,coverage
+1,LBC Express,Air+Ground,Philippines
+2,2GO Freight,Sea+Ground,Philippines
+3,DHL Supply Chain,Air+Sea,International
+4,FedEx Philippines,Air,International
+5,J&T Express,Ground,Philippines
+6,Ninja Van,Ground,Philippines

@@ -1,0 +1,6 @@
+warehouse_id,warehouse_code,city,country,region,capacity_sqm
+1,WH-MNL-01,Manila,Philippines,South East Asia,15000
+2,WH-CEB-01,Cebu,Philippines,South East Asia,8000
+3,WH-SGP-01,Singapore,Singapore,South East Asia,20000
+4,WH-KUL-01,Kuala Lumpur,Malaysia,South East Asia,12000
+5,WH-BKK-01,Bangkok,Thailand,South East Asia,10000

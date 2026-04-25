@@ -1,0 +1,49 @@
+product_id,sku,product_name,category,unit_cost,unit_price,weight_kg,lead_time_days,reorder_qty
+1,SKU-0001,Electronics_Item_1,Electronics,513.34,632.7,13.82,17,121
+2,SKU-0002,Electronics_Item_2,Electronics,590.49,1228.05,44.62,8,352
+3,SKU-0003,Electronics_Item_3,Electronics,340.43,421.7,11.01,35,358
+4,SKU-0004,Electronics_Item_4,Electronics,26.1,38.07,32.53,37,264
+5,SKU-0005,Electronics_Item_5,Electronics,180.25,354.38,40.49,3,438
+6,SKU-0006,Electronics_Item_6,Electronics,645.63,1360.72,17.08,12,160
+7,SKU-0007,Electronics_Item_7,Electronics,765.98,1254.35,4.73,9,233
+8,SKU-0008,Electronics_Item_8,Electronics,678.76,1347.23,40.38,32,324
+9,SKU-0009,Industrial_Parts_Item_9,Industrial Parts,104.24,250.07,4.03,21,474
+10,SKU-0010,Industrial_Parts_Item_10,Industrial Parts,504.77,1186.76,18.15,15,410
+11,SKU-0011,Industrial_Parts_Item_11,Industrial Parts,60.3,124.2,38.68,8,487
+12,SKU-0012,Industrial_Parts_Item_12,Industrial Parts,190.07,253.04,13.97,43,477
+13,SKU-0013,Industrial_Parts_Item_13,Industrial Parts,295.04,496.03,10.55,20,409
+14,SKU-0014,Industrial_Parts_Item_14,Industrial Parts,749.64,1531.1,30.5,13,323
+15,SKU-0015,Industrial_Parts_Item_15,Industrial Parts,584.66,825.79,19.03,43,402
+16,SKU-0016,Industrial_Parts_Item_16,Industrial Parts,447.78,935.86,42.16,6,167
+17,SKU-0017,Packaging_Item_17,Packaging,658.33,1478.98,20.12,7,158
+18,SKU-0018,Packaging_Item_18,Packaging,730.94,1416.07,35.92,16,385
+19,SKU-0019,Packaging_Item_19,Packaging,401.89,944.48,32.18,12,185
+20,SKU-0020,Packaging_Item_20,Packaging,116.01,251.57,26.99,40,269
+21,SKU-0021,Packaging_Item_21,Packaging,718.77,1235.72,11.04,11,310
+22,SKU-0022,Packaging_Item_22,Packaging,397.35,867.22,43.07,12,371
+23,SKU-0023,Packaging_Item_23,Packaging,132.19,275.57,29.86,27,245
+24,SKU-0024,Packaging_Item_24,Packaging,478.73,865.77,12.65,38,490
+25,SKU-0025,Raw_Materials_Item_25,Raw Materials,754.23,1572.09,5.82,37,434
+26,SKU-0026,Raw_Materials_Item_26,Raw Materials,217.13,441.48,5.67,30,130
+27,SKU-0027,Raw_Materials_Item_27,Raw Materials,365.71,892.32,43.81,19,306
+28,SKU-0028,Raw_Materials_Item_28,Raw Materials,610.76,1136.01,5.41,43,202
+29,SKU-0029,Raw_Materials_Item_29,Raw Materials,674.13,1253.86,10.03,26,440
+30,SKU-0030,Raw_Materials_Item_30,Raw Materials,133.43,325.51,46.13,3,356
+31,SKU-0031,Raw_Materials_Item_31,Raw Materials,262.7,321.89,46.46,22,172
+32,SKU-0032,Raw_Materials_Item_32,Raw Materials,51.05,119.53,47.35,8,424
+33,SKU-0033,Consumer_Goods_Item_33,Consumer Goods,391.36,504.85,38.05,11,115
+34,SKU-0034,Consumer_Goods_Item_34,Consumer Goods,529.5,1287.16,8.34,36,496
+35,SKU-0035,Consumer_Goods_Item_35,Consumer Goods,487.24,1195.53,46.45,15,415
+36,SKU-0036,Consumer_Goods_Item_36,Consumer Goods,252.81,630.43,32.53,31,314
+37,SKU-0037,Consumer_Goods_Item_37,Consumer Goods,363.93,554.0,3.29,4,351
+38,SKU-0038,Consumer_Goods_Item_38,Consumer Goods,445.37,875.14,0.46,43,80
+39,SKU-0039,Consumer_Goods_Item_39,Consumer Goods,187.01,444.53,43.0,7,313
+40,SKU-0040,Consumer_Goods_Item_40,Consumer Goods,194.21,401.95,10.79,11,420
+41,SKU-0041,Cold_Chain_Item_41,Cold Chain,748.73,1454.3,23.69,33,463
+42,SKU-0042,Cold_Chain_Item_42,Cold Chain,328.61,434.63,32.98,25,266
+43,SKU-0043,Cold_Chain_Item_43,Cold Chain,331.83,770.84,2.8,44,380
+44,SKU-0044,Cold_Chain_Item_44,Cold Chain,83.24,143.46,17.03,9,177
+45,SKU-0045,Cold_Chain_Item_45,Cold Chain,157.31,298.44,7.1,14,192
+46,SKU-0046,Cold_Chain_Item_46,Cold Chain,372.79,871.15,3.86,38,100
+47,SKU-0047,Cold_Chain_Item_47,Cold Chain,45.22,113.01,41.82,8,435
+48,SKU-0048,Cold_Chain_Item_48,Cold Chain,679.71,962.61,24.33,16,492
